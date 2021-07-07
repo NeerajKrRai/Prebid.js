@@ -1,0 +1,77 @@
+Request URL: https://nep.advangelists.com/xp/get?pubid=36b1698d957fc35f63b95c35a7938fe2
+Request Method: POST
+Status Code: 200 
+Remote Address: 34.197.167.170:443
+Referrer Policy: strict-origin-when-cross-origin
+access-control-allow-credentials: true
+access-control-allow-origin: http://localhost:9999
+access-control-expose-headers: VAST_XML_ERROR_PIXEL,Access-Control-Allow-Origin,Access-Control-Allow-Credentials,Content-Type
+content-type: application/json;charset=UTF-8
+date: Mon, 28 Jun 2021 11:49:09 GMT
+latency: 298
+server: Apache-Coyote/1.1
+set-cookie: avnguid=av-6389bc98-3971-477d-aa30-93b240d7f6e1; Domain=advangelists.com; Expires=Tue, 28-Jun-2022 11:49:09 GMT
+xp_internal_code: 1000
+:authority: nep.advangelists.com
+:method: POST
+:path: /xp/get?pubid=36b1698d957fc35f63b95c35a7938fe2
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+content-length: 830
+content-type: text/plain
+origin: http://localhost:9999
+referer: http://localhost:9999/
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: cross-site
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+pubid: 36b1698d957fc35f63b95c35a7938fe2
+{device: {langauge: "en", dnt: 0, devicetype: 2, js: 1, os: "Windows 10", h: 864, w: 1536}, at: 2,…}
+at: 2
+cur: ["USD"]
+device: {langauge: "en", dnt: 0, devicetype: 2, js: 1, os: "Windows 10", h: 864, w: 1536}
+devicetype: 2
+dnt: 0
+h: 864
+js: 1
+langauge: "en"
+os: "Windows 10"
+w: 1536
+id: "2eed1fc671b169"
+imp: [{id: "0", displaymanager: "advangelists", displaymanagerver: "1.0", tagId: 10931, bidfloor: 2,…}]
+0: {id: "0", displaymanager: "advangelists", displaymanagerver: "1.0", tagId: 10931, bidfloor: 2,…}
+bidfloor: 2
+bidfloorcur: "USD"
+displaymanager: "advangelists"
+displaymanagerver: "1.0"
+id: "0"
+secure: 0
+tagId: 10931
+video: {id: "5ceda036-1064-452f-84e4-ac02d4bb58e4", pos: 0, w: 320, h: 480,…}
+h: 480
+h: 480
+id: "5ceda036-1064-452f-84e4-ac02d4bb58e4"
+maxduration: 30
+mimes: ["video/mp4", "application/javascript"]
+0: "video/mp4"
+1: "application/javascript"
+playbackmethod: [2, 6]
+pos: 0
+skip: 1
+w: 320
+regs: {ext: {}}
+ext: {}
+site: {,…}
+domain: "pandora.com"
+mobile: 0
+name: "Prebid.js video adUnit example"
+page: "https://www.giftandwrap.co.uk/pandora-jewellery-c90?gclid=Cj0KCQjw_dWGBhDAARIsAMcYuJwonNQrlH2nqYRuKruhdzIgAhXmNUr8HD3EawD9BWilT21-77Wmp_IaAgTfEALw_wcB"
+ref: "http://localhost:9999/integrationExamples/gpt/pbjs_video_adUnit_Avng.html"
+search: ""
+tmax: 3000
+user: {ext: {}}
+ext: {}
